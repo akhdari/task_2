@@ -1,3 +1,4 @@
+// As for the third submission requirement, this task was completed using prior knowledge.
 import 'package:flutter/material.dart';
 import 'theme.dart';
 
